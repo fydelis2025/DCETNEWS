@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ Direitos autorais (c) 2019. Autor: Adiel Fontes, este aplicativo está protegido por lei 9.610/98
-  -->
-
-<resources>
-    <dimen name="eventos">10dp</dimen>
-</resources>
