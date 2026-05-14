@@ -1,0 +1,47 @@
+<!--
+  ~ Direitos autorais (c) 2019. Autor: Adiel Fontes, este aplicativo está protegido por lei 9.610/98
+  -->
+
+<!--
+  ~ Direitos autorais (c) 2019. Autor: Adiel Fontes, este aplicativo está protegido por lei 9.610/98
+  -->
+
+<resources>
+    <string name="app_name">DCETNEWS</string>
+    <string name="logomain">LogoMain</string>
+    <string name="notiicia">Notiicia</string>
+    <string name="principal">Principal</string>
+    <string name="Calendario">Calendário Eventos</string>
+    <string name="Segunda">Segunda</string>
+    <string name="Terca">Terça</string>
+    <string name="Quarta">Quarta</string>
+    <string name="Quinta">Quinta</string>
+    <string name="Sexta">Sexta</string>
+    <string name="Sabado">Sábado</string>
+    <string name="Domingo">Domingo</string>
+    <string name="Criticas">Envie Criticas ou Sugestões</string>
+    <string name="EventoNome">Nome:</string>
+    <string name="EventoEmail">Email:</string>
+    <string name="EventoOpcao">Opção:</string>
+    <string name="EventoTexto">Texto:</string>
+    <string name="SplashSubTitulo">Departamento de Ciências Exatas e da Terra</string>
+    <string name="Splashversao">Versão: @2019</string>
+    <string name="todo">TODO</string>
+    <string name="Departamento">Departamento:</string>
+    <string name="Imei">Chave:</string>
+    <string name="salvar">Salvar</string>
+    <string name="Telefone">Telefone</string>
+    <string-array name="Opcao">
+        <item>Criticas</item>
+        <item>Sugestões</item>
+    </string-array>
+
+    <string name="TituloNotificacao">Mensagem: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="new_message_notification_placeholder_text_template">Nova notícia</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+
+</resources>
