@@ -119,7 +119,7 @@
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="EXPORT_PRIVATE_KEY" value="false" />
-    <option name="KEY_STORE_PATH" value="C:\Users\asfontes.UNEB\AndroidStudioProjects\DCETNEWS\app\src\main\assets\keystore.jks" />
+    <option name="KEY_STORE_PATH" value="" />
     <option name="KEY_ALIAS" value="upload" />
   </component>
   <component name="Git.Rebase.Settings">
@@ -203,14 +203,7 @@
     <key name="android.template.packageName">
       <recent name="com.example.dcetnews" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\asfontes\OneDrive - Universidade do Estado da Bahia\DCETNEWS\app\src\main\res\xml" />
-      <recent name="C:\Users\asfontes.UNEB\AndroidStudioProjects\DCETNEWS\app\src\main\assets" />
-      <recent name="C:\Users\asfontes.UNEB\AndroidStudioProjects\DCETNEWS\app\src\main\res\layout" />
-      <recent name="C:\Users\asfontes.UNEB\AndroidStudioProjects\DCETNEWS\app\src\main\java\com\example\dcetnews" />
-      <recent name="C:\Users\asfontes.UNEB\AndroidStudioProjects\DCETNEWS\app\src\main\res\drawable" />
-    </key>
-    <key name="android.template.-1238003942">
+       <key name="android.template.-1238003942">
       <recent name="com.example.dcetnews" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
