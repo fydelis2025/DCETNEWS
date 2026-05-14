@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Direitos autorais (c) 2019. Autor: Adiel Fontes, este aplicativo está protegido por lei 9.610/98
+  -->
+
+<!--
+  ~ Direitos autorais (c) 2019. Autor: Adiel Fontes, este aplicativo está protegido por lei 9.610/98
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_fundo">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_main"
+        android:layout_marginTop="50dp"
+        tools:ignore="MissingConstraints"
+        android:contentDescription="@string/todo" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|bottom"
+        android:layout_marginBottom="80dp">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+
+    <ImageButton
+        android:id="@+id/BtNoticia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:background="@drawable/noticia"
+        android:contentDescription="@string/notiicia"
+        android:onClick="BtNoticia"/>
+
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+    <ImageButton
+        android:id="@+id/BtAgenda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:background="@drawable/agenda"
+        android:onClick="BtAgenda"
+        android:contentDescription="TODO" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+
+    <ImageButton
+        android:id="@+id/BtSugestao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:onClick="BtSugestao"
+        android:background="@drawable/sugestao"
+        android:contentDescription="TODO" />
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+</RelativeLayout>
