@@ -30,8 +30,8 @@ O desenvolvimento do DCETNEWS me permitiu exercitar a transição entre sistemas
 
 ## 📧 Contato
 Se você tiver interesse em colaborar ou discutir soluções em desenvolvimento e segurança:
-* **GitHub:** [Link do seu perfil]
-* **Portfólio:** [Link do seu site/Blogger]
+* **Linkedin:** [https://www.linkedin.com/in/adiel-fontes-896325274/]
+* **Portfólio:** [http://adielfontes.blogspot.com/]
 ## 📱 Expansão Mobile (Android)
 O DCETNEWS foi planejado para evoluir além do navegador. A versão Android foca em:
 * **Leveza:** Consumo mínimo de RAM (foco em dispositivos de entrada).
